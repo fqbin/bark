@@ -25,7 +25,7 @@ chmod +x bark-server_linux_amd64
 Plain  Textcurl http://0.0.0.0:8080/ping
 ```
 
-5.解析域名到服务器，宝塔添加站点并反向IP
+5.解析域名到服务器，添加站点并反向IP
 
 6.bark-App添加私有服务器
 
