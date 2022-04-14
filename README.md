@@ -1,4 +1,4 @@
-1.安装bark服务端，根据平台下载可执行文件:
+1.安装bark服务端，下载可执行文件:
 https://github.com/Finb/bark-server/releases
 或自己编译
 https://github.com/Finb/bark-server
